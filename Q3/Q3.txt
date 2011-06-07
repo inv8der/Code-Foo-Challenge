@@ -1,0 +1,7 @@
+My theory is that a knight can cover every space on a chessboard in just 63 moves, 
+as long as it visits each sqaure only once. The Windows application I developed
+should be able to prove this is true no matter what the initial position of the
+knight may be. You can change the square the knight starts in by clicking on any
+spot on the chessboard, and then begin the Knight's tour by pressing the "Begin
+Knight's Tour" button. After the process is finished, clicking "Reset Board" will
+clear the chessboard and allow you to start the tour again.
